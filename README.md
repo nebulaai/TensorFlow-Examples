@@ -99,3 +99,26 @@ The following examples are coming from [TFLearn](https://github.com/tflearn/tfle
 
 ### Examples
 - [TFLearn Examples](https://github.com/tflearn/tflearn/blob/master/examples). A large collection of examples using TFLearn.
+
+
+Note:
+
+The original TensorFlow examples were modified by:
+
+1. Converting files from python2.7 to compatible python3 version;
+2. Correcting errors in the files:
+```
+with tf.Session(config=tf.ConfigProto(log_device_placement=log_device_placement)) as sess:" # imcompatible
+with tf.Session(config=tf.ConfigProto(allow_soft_placement=True)) as sess:
+```
+in 6_MultiGPU/multigpu_basics.ipynb
+
+
+3. Changing the data saving path from "/tmp/data/" to "./dataset/file_name" for those that need download remote data;
+4. Adding onto the files for GPU memory increasing;
+```
+config = tf.ConfigProto()
+config.gpu_options.allow_growth=True   
+sess = tf.Session(config=config)
+```
+5. Testing pass on Nebula AI Orion Notebook.
