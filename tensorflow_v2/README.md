@@ -11,17 +11,10 @@
 - **Basic Operations** ([notebook](https://github.com/nebulaai/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/1_Introduction/basic_operations.ipynb)). A simple example that cover TensorFlow 2.0 basic operations.
 
 #### 2 - Basic Models
-<<<<<<< HEAD
-- **Linear Regression** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/2_BasicModels/linear_regression.ipynb)). Implement a Linear Regression with TensorFlow 2.0.
-- **Logistic Regression** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/2_BasicModels/logistic_regression.ipynb)). Implement a Logistic Regression with TensorFlow 2.0.
-- **Word2Vec (Word Embedding)** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/2_BasicModels/word2vec.ipynb)). Build a Word Embedding Model (Word2Vec) from Wikipedia data, with TensorFlow 2.0.
-- **GBDT (Gradient Boosted Decision Trees)** ([notebooks](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/2_BasicModels/gradient_boosted_trees.ipynb)). Implement a Gradient Boosted Decision Trees with TensorFlow 2.0+ to predict house value using Boston Housing dataset.
-=======
 - **Linear Regression** ([notebook](https://github.com/nebulaai/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/2_BasicModels/linear_regression.ipynb)). Implement a Linear Regression with TensorFlow 2.0.
 - **Logistic Regression** ([notebook](https://github.com/nebulaai/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/2_BasicModels/logistic_regression.ipynb)). Implement a Logistic Regression with TensorFlow 2.0.
 - **Word2Vec (Word Embedding)** ([notebook](https://github.com/nebulaai/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/2_BasicModels/word2vec.ipynb)). Build a Word Embedding Model (Word2Vec) from Wikipedia data, with TensorFlow 2.0.
 - **GBDT (Gradient Boosted Decision Trees)** ([notebooks](https://github.com/nebulaai/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/2_BasicModels/gradient_boosted_trees.ipynb)). Implement a Gradient Boosted Decision Trees with TensorFlow 2.0+ to predict house value using Boston Housing dataset.
->>>>>>> 66c60f21d4096ca7f7528cba0068786beb9f9108
 
 #### 3 - Neural Networks
 ##### Supervised
@@ -39,19 +32,6 @@
 - **DCGAN (Deep Convolutional Generative Adversarial Networks)** ([notebook](https://github.com/nebulaai/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/3_NeuralNetworks/dcgan.ipynb)). Build a Deep Convolutional Generative Adversarial Network (DCGAN) to generate images from noise.
 
 #### 4 - Utilities
-<<<<<<< HEAD
-- **Save and Restore a model** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/4_Utils/save_restore_model.ipynb)). Save and Restore a model with TensorFlow 2.0.
-- **Build Custom Layers & Modules** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/4_Utils/build_custom_layers.ipynb)). Learn how to build your own layers / modules and integrate them into TensorFlow 2.0 Models.
-- **Tensorboard** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/4_Utils/tensorboard.ipynb)). Track and visualize neural network computation graph, metrics, weights and more using TensorFlow 2.0+ tensorboard.
-
-#### 5 - Data Management
-- **Load and Parse data** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/5_DataManagement/load_data.ipynb)). Build efficient data pipeline with TensorFlow 2.0 (Numpy arrays, Images, CSV files, custom data, ...).
-- **Build and Load TFRecords** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/5_DataManagement/tfrecords.ipynb)). Convert data into TFRecords format, and load them with TensorFlow 2.0.
-- **Image Transformation (i.e. Image Augmentation)** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/5_DataManagement/image_transformation.ipynb)). Apply various image augmentation techniques with TensorFlow 2.0, to generate distorted images for training.
-
-#### 6 - Hardware
-- **Multi-GPU Training** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/6_Hardware/multigpu_training.ipynb)). Train a convolutional neural network with multiple GPUs on CIFAR-10 dataset.
-=======
 - **Save and Restore a model** ([notebook](https://github.com/nebulaai/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/4_Utils/save_restore_model.ipynb)). Save and Restore a model with TensorFlow 2.0.
 - **Build Custom Layers & Modules** ([notebook](https://github.com/nebulaai/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/4_Utils/build_custom_layers.ipynb)). Learn how to build your own layers / modules and integrate them into TensorFlow 2.0 Models.
 - **Tensorboard** ([notebook](https://github.com/nebulaai/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/4_Utils/tensorboard.ipynb)). Track and visualize neural network computation graph, metrics, weights and more using TensorFlow 2.0+ tensorboard.
@@ -63,7 +43,6 @@
 
 #### 6 - Hardware
 - **Multi-GPU Training** ([notebook](https://github.com/nebulaai/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/6_Hardware/multigpu_training.ipynb)). Train a convolutional neural network with multiple GPUs on CIFAR-10 dataset.
->>>>>>> 66c60f21d4096ca7f7528cba0068786beb9f9108
 
 ## Installation
 
