@@ -3,7 +3,11 @@
 A linear regression learning algorithm example using TensorFlow's Eager API.
 
 Author: Aymeric Damien
+<<<<<<< HEAD
 Project: https://github.com/aymericdamien/TensorFlow-Examples/
+=======
+Project: https://github.com/nebulaai/TensorFlow-Examples/
+>>>>>>> 66c60f21d4096ca7f7528cba0068786beb9f9108
 '''
 from __future__ import absolute_import, division, print_function
 

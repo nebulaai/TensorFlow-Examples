@@ -8,7 +8,7 @@ This example is using TensorFlow layers API, see 'convolutional_network_raw'
 example for a raw implementation with variables.
 
 Author: Aymeric Damien
-Project: https://github.com/aymericdamien/TensorFlow-Examples/
+Project: https://github.com/nebulaai/TensorFlow-Examples/
 """
 from __future__ import division, print_function, absolute_import
 

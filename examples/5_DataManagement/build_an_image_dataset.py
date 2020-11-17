@@ -32,7 +32,7 @@ Below, there are some parameters that you need to change (Marked 'CHANGE HERE'),
 such as the dataset path.
 
 Author: Aymeric Damien
-Project: https://github.com/aymericdamien/TensorFlow-Examples/
+Project: https://github.com/nebulaai/TensorFlow-Examples/
 """
 from __future__ import print_function
 

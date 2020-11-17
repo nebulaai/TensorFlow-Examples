@@ -7,7 +7,7 @@ handwritten digits as training samples (http://yann.lecun.com/exdb/mnist/).
 Note: This example requires TensorFlow v1.1.0 or over.
 
 Author: Aymeric Damien
-Project: https://github.com/aymericdamien/TensorFlow-Examples/
+Project: https://github.com/nebulaai/TensorFlow-Examples/
 """
 
 from __future__ import print_function

@@ -4,7 +4,11 @@ This example is using the MNIST database of handwritten digits
 (http://yann.lecun.com/exdb/mnist/)
 
 Author: Aymeric Damien
+<<<<<<< HEAD
 Project: https://github.com/aymericdamien/TensorFlow-Examples/
+=======
+Project: https://github.com/nebulaai/TensorFlow-Examples/
+>>>>>>> 66c60f21d4096ca7f7528cba0068786beb9f9108
 '''
 
 from __future__ import print_function

@@ -16,7 +16,7 @@ Links:
     - [Xavier Glorot Init](www.cs.cmu.edu/~bhiksha/courses/deeplearning/Fall.../AISTATS2010_Glorot.pdf).
 
 Author: Aymeric Damien
-Project: https://github.com/aymericdamien/TensorFlow-Examples/
+Project: https://github.com/nebulaai/TensorFlow-Examples/
 """
 
 from __future__ import division, print_function, absolute_import

@@ -5,7 +5,7 @@ handwritten digit images. This example is using the MNIST database of
 handwritten digits as training samples (http://yann.lecun.com/exdb/mnist/).
 
 Author: Aymeric Damien
-Project: https://github.com/aymericdamien/TensorFlow-Examples/
+Project: https://github.com/nebulaai/TensorFlow-Examples/
 """
 
 from __future__ import print_function

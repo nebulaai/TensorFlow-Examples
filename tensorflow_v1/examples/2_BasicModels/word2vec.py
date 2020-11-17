@@ -11,7 +11,11 @@ Links:
     - [Word2Vec] https://arxiv.org/pdf/1301.3781.pdf
 
 Author: Aymeric Damien
+<<<<<<< HEAD
 Project: https://github.com/aymericdamien/TensorFlow-Examples/
+=======
+Project: https://github.com/nebulaai/TensorFlow-Examples/
+>>>>>>> 66c60f21d4096ca7f7528cba0068786beb9f9108
 """
 from __future__ import division, print_function, absolute_import
 
