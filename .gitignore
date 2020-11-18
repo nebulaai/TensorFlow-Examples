@@ -43,6 +43,12 @@ pip-delete-this-directory.txt
 htmlcov/
 .tox/
 .coverage
+<<<<<<< HEAD
+checkpoint
+htmlcov
+mnist
+.idea
+=======
 .coverage.*
 .cache
 nosetests.xml
@@ -120,3 +126,4 @@ node_modules/
 models/
 tensorflow_logs/
 
+>>>>>>> 66c60f21d4096ca7f7528cba0068786beb9f9108
